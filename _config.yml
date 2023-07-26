@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
   A blog for CTF writeups, Cyber Security & Defense (Blue) Team Techniques, other side projects and research by Oaker Min (Bruce).
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: https://brootware.github.io""
+url: https://bruteware.github.io""
 
 github:
   username: brootware # change to your github username
