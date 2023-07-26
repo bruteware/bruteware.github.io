@@ -62,7 +62,7 @@ This is specifically for Mac users who are using VMWare Fusion for kali.
    git clone https://github.com/brootware/kali-up.git && cd kali-up
    ```
 
-5. Modify [site.yml](./site.yml) to have the Ansible roles you want to install on your machine by commenting. Else all the roles will be installed.
+5. Modify [site.yml] to have the Ansible roles you want to install on your machine by commenting. Else all the roles will be installed.
 
    ```yaml
    roles:
