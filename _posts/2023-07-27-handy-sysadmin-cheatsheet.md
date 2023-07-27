@@ -1,6 +1,15 @@
 ---
 layout: post
 title: Handy Sysadmin Cheatsheet
+categories:
+- General-tech
+- Misc
+tags:
+- General-tech
+- Powershell
+- Linux
+- Bash
+- Cheat Sheet
 date: 2023-07-27 18:45 +0800
 ---
 
