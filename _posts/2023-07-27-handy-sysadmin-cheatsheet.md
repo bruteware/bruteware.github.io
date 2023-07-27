@@ -13,4 +13,4 @@ This is a quick blog entry cheatsheet for system administrators to refer to quic
 	 * values from your Excel file and how to use the rest of the object model. -->
 <script type="text/javascript" src="https://onedrive.live.com/embed?resid=3AC474C28157D633%21343103&authkey=%21APtVIPwpf9WGmas&em=3&wdItem=%22'HandySysAdmin'!A%3AXFD%22&wdDivId=%22myExcelDiv%22&wdDownloadButton=1&wdActiveCell=%22'HandySysAdmin'!A1%22"></script>
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSiSgD6qKf3_YvW30kzh8F0TqxlrKnj-NHO60CM_Oj8fq8etO66BDEyWM329ztpO1biYcHnp1zSCg_C/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<!-- <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSiSgD6qKf3_YvW30kzh8F0TqxlrKnj-NHO60CM_Oj8fq8etO66BDEyWM329ztpO1biYcHnp1zSCg_C/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe> -->
