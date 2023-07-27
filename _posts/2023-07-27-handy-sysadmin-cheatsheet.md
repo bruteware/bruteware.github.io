@@ -13,7 +13,10 @@ tags:
 date: 2023-07-27 18:45 +0800
 ---
 
-This is a quick blog entry cheatsheet for system administrators to refer to quickly in their day to day work.
+This is a quick blog entry cheatsheet for system administrators to refer to quickly in their day to day work.This is a quick blog entry cheatsheet for system administrators to refer to quickly in their day to day work. I will be adding in more categories to the cheatbook in the future.
+
+> For most of the long linux commands, I'd suggest using [dotfiles](https://github.com/brootware/dotfiles)
+{: .prompt-tip }
 
 <!-- <iframe width="700" height="900" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=3AC474C28157D633%21343103&authkey=%21APtVIPwpf9WGmas&em=2&ActiveCell='HandySysAdmin'!A1&Item='HandySysAdmin'!A%3AXFD&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True"></iframe> -->
 
